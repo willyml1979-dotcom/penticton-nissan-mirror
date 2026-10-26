@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-10-25T18:09:34",
+  "generated_at": "2026-10-26T03:05:19",
   "vehicle_count": 568,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1574,7 +1574,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "unknown",
-      "price": 24904.0,
+      "price": 24404.0,
       "price_currency": "CAD"
     },
     {
@@ -1662,7 +1662,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "unknown",
-      "price": 28904.0,
+      "price": 27904.0,
       "price_currency": "CAD"
     },
     {
@@ -1739,7 +1739,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "unknown",
-      "price": 16904.0,
+      "price": 16797.0,
       "price_currency": "CAD"
     },
     {
@@ -1772,7 +1772,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "unknown",
-      "price": 19688.0,
+      "price": 22904.0,
       "price_currency": "CAD"
     },
     {
@@ -1783,7 +1783,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "unknown",
-      "price": 20904.0,
+      "price": 20797.0,
       "price_currency": "CAD"
     },
     {
