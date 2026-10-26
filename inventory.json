@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-10-26T11:12:32",
+  "generated_at": "2026-10-26T11:16:57",
   "vehicle_count": 566,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -212,7 +212,7 @@
       "name": "New 2027 Nissan Kicks SR Premium AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/b0d91c5abb34.html",
       "condition": "new",
-      "price": 38398.0,
+      "price": 38728.0,
       "price_currency": "CAD"
     },
     {
@@ -223,14 +223,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Nissan Kicks Rock Creekin British Columbia",
+      "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/8e5f001620c1.html",
       "condition": "new",
       "price": 36098.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Nissan Kicks Rock Creekin British Columbia",
+      "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/dd6a8584bbf9.html",
       "condition": "new",
       "price": 36098.0,
