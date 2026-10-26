@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-10-26T03:05:19",
+  "generated_at": "2026-10-26T03:10:27",
   "vehicle_count": 568,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -198,7 +198,7 @@
       "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/d74ae877a2af.html",
       "condition": "new",
-      "price": 38198.0,
+      "price": 36278.0,
       "price_currency": "CAD"
     },
     {
@@ -219,7 +219,7 @@
       "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/3006302fee00.html",
       "condition": "new",
-      "price": 38448.0,
+      "price": 36348.0,
       "price_currency": "CAD"
     },
     {
@@ -5228,7 +5228,7 @@
     },
     {
       "name": "2025 Hyundai Tucson ",
-      "vin": "3KMJBCDE8SE024172",
+      "vin": "5NMJBCDE5SH532403",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/b8b68998e783.html",
       "year": 2025,
       "make": "Hyundai",
@@ -5338,13 +5338,13 @@
     },
     {
       "name": "2025 Kia Sportage ",
-      "vin": "KNDPUCDFXS7395222",
+      "vin": "KNDPUCDF0S7383550",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/75e8db8030b3.html",
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 29806.0,
+      "price": 29908.0,
       "price_currency": "CAD"
     },
     {
@@ -5542,7 +5542,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 28304.0,
+      "price": 27797.0,
       "price_currency": "CAD"
     },
     {
@@ -5921,13 +5921,13 @@
     },
     {
       "name": "2026 Kia Sportage ",
-      "vin": "KNDPUCDF3T7467279",
+      "vin": "KNDPUCDF0T7467157",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/249a9af8b1bd.html",
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 35408.0,
+      "price": 35904.0,
       "price_currency": "CAD"
     },
     {
