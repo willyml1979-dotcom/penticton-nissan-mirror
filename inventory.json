@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-10-25T18:05:52",
-  "vehicle_count": 569,
+  "generated_at": "2026-10-25T18:09:34",
+  "vehicle_count": 568,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -3475,7 +3475,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 35904.0,
+      "price": 36904.0,
       "price_currency": "CAD"
     },
     {
@@ -3920,13 +3920,13 @@
     },
     {
       "name": "2023 Hyundai Santa Fe ",
-      "vin": "5NMS3DAJ0PH621084",
+      "vin": "5NMS3DAJ5PH563974",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/7d77faa96691.html",
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "new",
-      "price": 26904.0,
+      "price": 29404.0,
       "price_currency": "CAD"
     },
     {
@@ -6042,16 +6042,6 @@
       "model": "Zin British Columbia",
       "condition": "new",
       "price": 45798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue SV Dark Armor AWDin British Columbia",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/0314ece53b0f.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 38478.0,
       "price_currency": "CAD"
     },
     {
