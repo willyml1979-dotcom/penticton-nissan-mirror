@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-10-26T03:10:27",
-  "vehicle_count": 568,
+  "generated_at": "2026-10-26T11:12:32",
+  "vehicle_count": 566,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1794,7 +1794,7 @@
       "make": "Hyundai",
       "model": "Accent",
       "condition": "unknown",
-      "price": 15904.0,
+      "price": 15774.0,
       "price_currency": "CAD"
     },
     {
@@ -1827,7 +1827,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "unknown",
-      "price": 17304.0,
+      "price": 17197.0,
       "price_currency": "CAD"
     },
     {
@@ -1838,7 +1838,7 @@
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "unknown",
-      "price": 15904.0,
+      "price": 15397.0,
       "price_currency": "CAD"
     },
     {
@@ -1871,7 +1871,7 @@
       "make": "Jaguar",
       "model": "E-PACE",
       "condition": "unknown",
-      "price": 21304.0,
+      "price": 20904.0,
       "price_currency": "CAD"
     },
     {
@@ -1886,13 +1886,13 @@
     },
     {
       "name": "2019 Jeep Cherokee ",
-      "vin": "1C4PJMBN6KD148418",
+      "vin": "1C4PJMDNXKD344942",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/8cdb16b4cefc.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "unknown",
-      "price": 19408.0,
+      "price": 21904.0,
       "price_currency": "CAD"
     },
     {
@@ -1914,7 +1914,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "unknown",
-      "price": 23804.0,
+      "price": 22797.0,
       "price_currency": "CAD"
     },
     {
@@ -1925,7 +1925,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "unknown",
-      "price": 29904.0,
+      "price": 29404.0,
       "price_currency": "CAD"
     },
     {
@@ -2577,17 +2577,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Forester ",
-      "vin": "JF2SKEJC4LH476770",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/c8883e32c592.html",
-      "year": 2020,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "unknown",
-      "price": 25903.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Tesla Model 3 ",
       "vin": "5YJ3E1EA3LF738807",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/e843f941a8c7.html",
@@ -2662,17 +2651,6 @@
       "model": "Trax",
       "condition": "unknown",
       "price": 17904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chrysler 300 ",
-      "vin": "2C3CCAGG2MH602899",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/d73b5fffbdb7.html",
-      "year": 2021,
-      "make": "Chrysler",
-      "model": "300",
-      "condition": "unknown",
-      "price": 30404.0,
       "price_currency": "CAD"
     },
     {
