@@ -7,7 +7,7 @@ Penticton Nissan is a  dealership in Penticton. This site is an AI-readable mirr
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/penticton-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/ (about 600 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/penticton-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/ (about 606 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/penticton-nissan-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/penticton-nissan-mirror/llms.txt

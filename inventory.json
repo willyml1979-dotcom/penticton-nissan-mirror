@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-11-17T17:06:00",
-  "vehicle_count": 600,
+  "generated_at": "2026-11-17T17:11:06",
+  "vehicle_count": 606,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -5836,6 +5836,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Rogue SV Moonroof AWDin British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/8cd3eb57d603.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "new",
+      "price": 36128.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Nissan Sentra SR PREMIUM FWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/f8881ec4eb2c.html",
       "year": 2026,
@@ -5914,7 +5924,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 40048.0,
+      "price": 38398.0,
       "price_currency": "CAD"
     },
     {
@@ -5978,17 +5988,17 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Nissan Kicks Rock Creekin British Columbia",
+      "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/8fa05fb1c8bd.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 36098.0,
+      "price": 36278.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Nissan Kicks Rock Creekin British Columbia",
+      "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/4b6329513739.html",
       "year": 2027,
       "make": "Nissan",
@@ -5998,13 +6008,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Nissan Kicks Rock Creekin British Columbia",
+      "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/53d094287ba4.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 36348.0,
+      "price": 36528.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Kicks Rock Creek AWDin British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/778faf38614a.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 36278.0,
       "price_currency": "CAD"
     },
     {
@@ -6025,6 +6045,46 @@
       "model": "Leaf",
       "condition": "new",
       "price": 37298.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Rogue Unknownin British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/9567b1875aac.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "new",
+      "price": 35448.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Rogue Unknownin British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/b124ff1f71c7.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "new",
+      "price": 35198.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Sentra SV Premium FWDin British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/e7452a1786f5.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "new",
+      "price": 31218.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Sentra SR FWDin British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/21e40d20dd72.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "new",
+      "price": 33063.0,
       "price_currency": "CAD"
     }
   ]
