@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-11-17T17:11:06",
-  "vehicle_count": 606,
+  "generated_at": "2026-11-18T04:09:35",
+  "vehicle_count": 605,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -293,13 +293,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Volkswagen Golf 2019 for salein British Columbia",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/032945c266e6.html",
-      "condition": "unknown",
-      "price": 9797.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Volkswagen Jetta 2019 for salein British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/1be0b831685c.html",
       "condition": "unknown",
@@ -433,6 +426,13 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Sorento 2020 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/8e8162d578ac.html",
+      "condition": "unknown",
+      "price": 23904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "MINI 5 Door 2020 for salein British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/b4f38ba78885.html",
       "condition": "unknown",
@@ -458,6 +458,27 @@
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/0ee77a8d786e.html",
       "condition": "unknown",
       "price": 26904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2020 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/1ae85a2035d6.html",
+      "condition": "unknown",
+      "price": 21904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2020 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/50b54eace2d7.html",
+      "condition": "unknown",
+      "price": 40704.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2020 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/808bac375667.html",
+      "condition": "unknown",
+      "price": 47904.0,
       "price_currency": "CAD"
     },
     {
@@ -489,6 +510,76 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chevrolet Camaro 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/e0c0f2833be3.html",
+      "condition": "unknown",
+      "price": 25904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Malibu 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/71204b33321f.html",
+      "condition": "unknown",
+      "price": 16904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/bf34715c11ff.html",
+      "condition": "unknown",
+      "price": 35904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Trax 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/1e280f05dd3e.html",
+      "condition": "unknown",
+      "price": 17797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Challenger 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/2921afc2f1a9.html",
+      "condition": "unknown",
+      "price": 39904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Charger 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/8040e60a108b.html",
+      "condition": "unknown",
+      "price": 33404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/bbded99947fe.html",
+      "condition": "unknown",
+      "price": 38904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/f447f2c487a7.html",
+      "condition": "unknown",
+      "price": 21204.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Yukon 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/3d52eab7769f.html",
+      "condition": "unknown",
+      "price": 48904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/645bc258f120.html",
+      "condition": "unknown",
+      "price": 18404.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Elantra Hybrid 2021 for salein British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/f169c3ca947c.html",
       "condition": "unknown",
@@ -500,6 +591,13 @@
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/fa811433286a.html",
       "condition": "unknown",
       "price": 19904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2021 for salein British Columbia",
+      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/0e08980d5ce6.html",
+      "condition": "unknown",
+      "price": 21904.0,
       "price_currency": "CAD"
     },
     {
@@ -2469,17 +2567,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Kia Sorento ",
-      "vin": "5XYPKDA50LG684511",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/8e8162d578ac.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "unknown",
-      "price": 22908.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Kia Sportage ",
       "vin": "KNDPNCAC7L7774025",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/60ecd5708e3c.html",
@@ -2545,28 +2632,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Nissan Rogue ",
-      "vin": "5N1AT2MV9LC710994",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/1ae85a2035d6.html",
-      "year": 2020,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "unknown",
-      "price": 17904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 RAM 1500 ",
-      "vin": "1C6SRFKM2LN257550",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/50b54eace2d7.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "unknown",
-      "price": 44904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 RAM 1500 Classic ",
       "vin": "1C6RR7KT9LS113927",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/c6766a181847.html",
@@ -2575,17 +2640,6 @@
       "model": "1500 Classic",
       "condition": "unknown",
       "price": 25727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 RAM 2500 ",
-      "vin": "3C6UR5DL2LG145704",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/808bac375667.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "unknown",
-      "price": 50904.0,
       "price_currency": "CAD"
     },
     {
@@ -2611,50 +2665,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Camaro ",
-      "vin": "1G1FB1RX3M0115376",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/e0c0f2833be3.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Camaro",
-      "condition": "unknown",
-      "price": 27904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Malibu ",
-      "vin": "1G1ZC5ST6MF086395",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/71204b33321f.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Malibu",
-      "condition": "unknown",
-      "price": 16907.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Silverado 1500 ",
-      "vin": "1GCUYEED0MZ401228",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/bf34715c11ff.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "unknown",
-      "price": 38304.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Trax ",
-      "vin": "KL7CJLSB7MB325892",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/1e280f05dd3e.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "unknown",
-      "price": 17904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Dodge Challenger R/T RWD, SUNROOF, HEATED SEATS AND STEERING WHEEL!!in British Columbia",
       "vin": "2C3CDZBT4MH572563",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/33182bff60c3.html",
@@ -2663,28 +2673,6 @@
       "model": "Challenger",
       "condition": "unknown",
       "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Dodge Challenger ",
-      "vin": "2C3CDZBT4MH572563",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/2921afc2f1a9.html",
-      "year": 2021,
-      "make": "Dodge",
-      "model": "Challenger",
-      "condition": "unknown",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Dodge Charger ",
-      "vin": "2C3CDXMG3MH675901",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/8040e60a108b.html",
-      "year": 2021,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "unknown",
-      "price": 35904.0,
       "price_currency": "CAD"
     },
     {
@@ -2699,17 +2687,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Bronco ",
-      "vin": "1FMDE5CP3MLA75509",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/bbded99947fe.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "unknown",
-      "price": 38904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Ford Edge ",
       "vin": "2FMPK4J93MBA38030",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/3756615c0aea.html",
@@ -2718,17 +2695,6 @@
       "model": "Edge",
       "condition": "unknown",
       "price": 25904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford Escape ",
-      "vin": "1FMCU9J92MUA54994",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/f447f2c487a7.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "unknown",
-      "price": 22404.0,
       "price_currency": "CAD"
     },
     {
@@ -2751,39 +2717,6 @@
       "model": "Terrain",
       "condition": "unknown",
       "price": 24904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 GMC Yukon ",
-      "vin": "1GKS2AKD4MR438793",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/3d52eab7769f.html",
-      "year": 2021,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "unknown",
-      "price": 50904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Elantra ",
-      "vin": "KMHLM4AG0MU100131",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/645bc258f120.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "unknown",
-      "price": 18327.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Kona ",
-      "vin": "KM8K6CAA6M4668346",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/inventory/0e08980d5ce6.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "unknown",
-      "price": 22904.0,
       "price_currency": "CAD"
     },
     {
