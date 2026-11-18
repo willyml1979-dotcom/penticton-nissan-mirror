@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-11-18T12:54:26",
+  "generated_at": "2026-11-18T12:57:45",
   "vehicle_count": 608,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -5623,7 +5623,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 39478.0,
+      "price": 38478.0,
       "price_currency": "CAD"
     },
     {
@@ -5633,7 +5633,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 39478.0,
+      "price": 38478.0,
       "price_currency": "CAD"
     },
     {
@@ -5653,11 +5653,11 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 39478.0,
+      "price": 38478.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan Rogue SV Dark Armor AWDin British Columbia",
+      "name": "2026 Nissan Rogue SV Dark Armor AWD demoin British Columbia",
       "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/ae78fd2a429a.html",
       "year": 2026,
       "make": "Nissan",
@@ -5673,7 +5673,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 39478.0,
+      "price": 38478.0,
       "price_currency": "CAD"
     },
     {
