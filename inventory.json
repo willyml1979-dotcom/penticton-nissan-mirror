@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Nissan",
-  "generated_at": "2026-11-18T04:09:35",
-  "vehicle_count": 605,
+  "generated_at": "2026-11-18T04:16:10",
+  "vehicle_count": 604,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -5725,7 +5725,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 39478.0,
+      "price": 38478.0,
       "price_currency": "CAD"
     },
     {
@@ -5746,16 +5746,6 @@
       "model": "Rogue",
       "condition": "new",
       "price": 38478.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Nissan Rogue SV MOONROOF AWDin British Columbia",
-      "url": "https://willyml1979-dotcom.github.io/penticton-nissan-mirror/new/832d8a58e713.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 36128.0,
       "price_currency": "CAD"
     },
     {
@@ -5827,7 +5817,7 @@
       "make": "Nissan",
       "model": "Muranoin British Columbia",
       "condition": "new",
-      "price": 56048.0,
+      "price": 55048.0,
       "price_currency": "CAD"
     },
     {
@@ -5847,7 +5837,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 40243.0,
+      "price": 38728.0,
       "price_currency": "CAD"
     },
     {

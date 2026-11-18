@@ -1,6 +1,6 @@
 # Penticton Nissan
 
- dealership in Penticton. AI-readable inventory mirror, about 605 vehicles.
+ dealership in Penticton. AI-readable inventory mirror, about 604 vehicles.
 
 - Official website: https://www.pentictonnissan.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/penticton-nissan-mirror/used/
